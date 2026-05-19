@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "specialty": "Web Development",
+    "avatar": "https://i.pravatar.cc/150?img=47",
+    "courses": 8,
+    "students": 45000,
+    "rating": 4.9,
+    "bio": "Senior Software Engineer at Google with 10+ years building scalable web applications. Ex-Meta."
+  },
+  {
+    "id": 2,
+    "name": "Alex Chen",
+    "specialty": "UI/UX Design",
+    "avatar": "https://i.pravatar.cc/150?img=68",
+    "courses": 5,
+    "students": 28000,
+    "rating": 4.8,
+    "bio": "Lead Product Designer at Airbnb. Passionate about creating experiences that users genuinely love."
+  },
+  {
+    "id": 3,
+    "name": "David Kim",
+    "specialty": "Data Science & AI",
+    "avatar": "https://i.pravatar.cc/150?img=33",
+    "courses": 6,
+    "students": 62000,
+    "rating": 4.9,
+    "bio": "PhD in Machine Learning. Data Scientist at Netflix. Kaggle Grandmaster."
+  },
+  {
+    "id": 4,
+    "name": "Emma Thompson",
+    "specialty": "Business & Analytics",
+    "avatar": "https://i.pravatar.cc/150?img=41",
+    "courses": 4,
+    "students": 31000,
+    "rating": 4.7,
+    "bio": "MBA from Harvard. Former McKinsey consultant. Helped 200+ companies grow through data."
+  }
+]
